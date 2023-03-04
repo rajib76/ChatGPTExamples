@@ -1,4 +1,6 @@
-#ChatGPT DD
+#Author: Rajib Deb
+#Data : 04-Mar-2023
+#This example shows the use of Chatgpt api
 import os
 import openai
 openai.api_key= os.getenv('API_TOKEN')
